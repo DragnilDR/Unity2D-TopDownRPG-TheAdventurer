@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c2c561bd0d829847bde9b8826d0d1ea, type: 3}
+  m_Name: Iron Slippers
+  m_EditorClassIdentifier: 
+  itemType: 1
+  equipmentType: 5
+  attackType: 0
+  id: 0
+  itemSprite: {fileID: 1981496220, guid: 71de625eb6bccef498fa53da208bf5f0, type: 3}
+  itemName: Iron Slippers
+  itemDescription: This is Iron Slippers + 10 arrmor
+  stats:
+    Health: 0
+    Stamina: 0
+    Damage: 0
+    Armor: 10
+    Speed: 0
+  dropChance: 0
+  dropChanceInChest: 0
